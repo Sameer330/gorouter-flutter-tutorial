@@ -22,7 +22,7 @@ Run These Commands:
 * Run main.dart
 `flutter run lib/main.dart`
 
-### Packages Uses (From [pub](https://pub.dev))
+### Packages Used (From [pub](https://pub.dev))
 1. GoRouter - [go_router](https://pub.dev/packages/go_router)
 > For Page Navigation with routes
 2. GetIt - [get_it](https://pub.dev/packages/get_it)
